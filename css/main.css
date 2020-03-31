@@ -5,3 +5,20 @@ html {
 img {
   max-width: 200px;
 }
+
+.search-bar {
+  border: 2px solid black;
+  background-color: #fff;
+}
+
+.dark {
+  background-color: #ddd;
+}
+
+.bright {
+  background-color: #efefef;
+}
+
+.white {
+  background-color: white;
+}
